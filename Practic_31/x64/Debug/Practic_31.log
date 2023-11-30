@@ -1,0 +1,4 @@
+﻿  Practic_31.cpp
+C:\Users\Abdulkadir\Desktop\СИАОД\Practic_31\Practic_31\Practic_31\Header.h(23,1): warning C4267: инициализация: преобразование из "size_t" в "unsigned long"; возможна потеря данных
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.34.31933\include\filesystem(13): warning STL4038: The contents of <filesystem> are available only with C++17 or later.
+  Practic_31.vcxproj -> C:\Users\Abdulkadir\Desktop\СИАОД\Practic_31\Practic_31\x64\Debug\Practic_31.exe
